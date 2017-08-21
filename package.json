@@ -1,0 +1,26 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "robot whith simplon",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayetadam/-robot-.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "hayet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hayetadam/-robot-/issues"
+  },
+  "homepage": "https://github.com/hayetadam/-robot-#readme",
+  "dependencies": {
+    "johnny-five": "^0.11.3",
+    "node-pixel": "^0.9.3"
+  }
+}
